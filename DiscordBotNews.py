@@ -2,9 +2,9 @@ import discord
 import feedparser
 import asyncio
 
-TOKEN = '847ba81878cb549abbf18f22549274bab4c9da2e533502f202f1b5952634f972' #Token del bot
+TOKEN = #Token del bot
 RSS_URL = ['https://rss.app/feeds/kBdLV7ZZZBlnHSN0.xml','https://rss.app/feeds/tKfsoEf15ehcMaOd.xml'] #RSS de las paginas
-ID_CHANNEL = 1298189006546145342 #ID del canal
+ID_CHANNEL = #ID del canal
 
 client = discord.Client()
 
